@@ -87,7 +87,7 @@ def adding_matz
      }
   
   programmer_hash[:yukihiro_matsumoto] = {}
-  binding.pry  
+  
 end
 
 def changing_alan
